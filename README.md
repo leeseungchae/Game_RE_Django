@@ -12,4 +12,14 @@
 
 ## 수집 
 ![image](https://user-images.githubusercontent.com/96555334/174032176-fe9017e1-bf7d-499c-8210-8a1817848cd3.png)
-### Job01_crawling.py
+#### Job01_crawling.py
+
+## 전처리 (가공 - 형태소분리 )
+
+### 데이터 합치기 
+![image](https://user-images.githubusercontent.com/96555334/174033680-7e8cb9d4-a645-4332-b516-00228ade9aa9.png)
+#### job03_01_preprocessing.ipynb
+
+### 형태소 분리
+![image](https://user-images.githubusercontent.com/96555334/174033293-ed8eb542-c454-4938-9d2e-a5cc42a06d72.png)
+
